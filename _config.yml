@@ -1,10 +1,1 @@
 theme: minima
-
-# Change this to your actual GitHub Pages URL once known, e.g.:
-# baseurl: "/my-repo-name"
-# url: "https://yourusername.github.io"
-baseurl: "/jekyll-test"
-url: "https://kaanibrahim.github.io"
-
-plugins:
-  - jekyll-feed
